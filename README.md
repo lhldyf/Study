@@ -45,8 +45,7 @@ list skills of develop or life, learn more, be better.
   ### Tools
   - Docker
   - Shell
-  
-  ### Google Dapper
+  ### Google Dapper
 
 ## BigData
   ### Hadoop
