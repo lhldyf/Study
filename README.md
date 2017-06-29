@@ -6,10 +6,12 @@ list skills of develop or life, learn more, be better.
 
   ### OS (operation system)
   - Linux
+
   ### NetWork
   - Http
     - Cookie Session
   - WebSocket
+
   ### Algorithm
 
   ### Data Structure
@@ -43,6 +45,7 @@ list skills of develop or life, learn more, be better.
   ### Tools
   - Docker
   - Shell
+  
   ### Google Dapper
 
 ## BigData
@@ -54,7 +57,7 @@ list skills of develop or life, learn more, be better.
 
  
 ## Distributed
-  ### OpenSource Framework
+  ### OpenSource Framework
   - Dubbo
   - Hystrix
   - Motan
