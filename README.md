@@ -5,33 +5,73 @@ list skills of develop or life, learn more, be better.
   Maybe u think this is unimportant, but these basics is helpful to insight into the mysteries of programing.
 
   ### OS (operation system)
-    Linux
-
+  - Linux
   ### NetWork
-
+  - Http
+    - Cookie Session
+  - WebSocket
   ### Algorithm
 
   ### Data Structure
 
 ## Develop Language
   ### Java
-
+  - Logback
+  - Spring
+  - Mybatis
+  - SpringMVC
+  - Maven
+  - Spring Boot
+    
+  ### Css
+  
+  ### Javascript
+  
+  ### Html
+  
+  ### Node
+   
   ### Ruby
-    now I remember nothing about ruby...
-
+  
+## Continuous integration
 ## DataBase
+  ### Oracle
+  ### MySQL
+  
 
 ## OPS
-  ### Docker
+  ### Tools
+  - Docker
+  - Shell
+  ### Google Dapper
 
 ## BigData
   ### Hadoop
-    HBase
   ### ElasticSearch
   ### Kafka
   
 ## SOA
- - Dubbo 
+
+ 
+## Distributed
+  ### OpenSource Framework
+  - Dubbo
+  - Hystrix
+  - Motan
+
+## Design Patterns
+
+## Service Mode
+  ### SAAS
+  ### PAAS
+  ### IAAS
+  
+## Version Controll
+  ### GIT
+  ### SVN
+  
+## Time Management
 
 ## Life
   ### Photography
+  
